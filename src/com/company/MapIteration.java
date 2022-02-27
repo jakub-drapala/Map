@@ -6,6 +6,8 @@ public class MapIteration {
 
     public static void main(String[] args) {
 
+        // new line
+
         Map<String, Integer> map = new HashMap<>();
         map.put("Java", 17);
         map.put("Python", 3);
